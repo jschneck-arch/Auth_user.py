@@ -9,3 +9,7 @@ I understand that unless there is a vulnerability this
 would likely never work however it is a project that i initially 
 started as a script to run off of a USB and wanted
 to try using sockets, ctypes, and other imports I had not used.
+
+
+#Usage
+python auth_usr.py --add --username gbeardfist --password 12345 --servers 192.168.1.100 192.168.1.200 --ports 8080 8888
