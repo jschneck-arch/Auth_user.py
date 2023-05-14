@@ -12,4 +12,4 @@ to try using sockets, ctypes, and other imports I had not used.
 
 
 #Usage
-python auth_usr.py --add --username gbeardfist --password 12345 --servers 192.168.1.100 192.168.1.200 --ports 8080 8888
+python auth_usr.py --add --username gbeardfist --password 12345 --servers <target IP 1> <target IP 2> --ports <port> <port>
